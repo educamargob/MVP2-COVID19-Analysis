@@ -51,7 +51,6 @@ Este projeto tem como objetivo principal realizar o pré-processamento e a anál
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
-- Scikit-learn (para futuros modelos)
 
 ## ✍️ Autor
 
