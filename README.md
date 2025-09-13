@@ -43,8 +43,6 @@ Este projeto tem como objetivo principal realizar o pré-processamento e a anál
 - Intubação e internação em UTI também se relacionam com maior risco de morte.
 - A maioria dos registros está concentrada em pacientes que não apresentam comorbidades, o que exigiu atenção no balanceamento e tratamento dos dados.
 
-## 📁 Estrutura do projeto
-
 ## 🧪 Tecnologias utilizadas
 
 - Python 3.10+
